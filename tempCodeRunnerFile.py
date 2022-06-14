@@ -1,0 +1,2 @@
+intercity.bookTicket()
+intercity.getStatus()
